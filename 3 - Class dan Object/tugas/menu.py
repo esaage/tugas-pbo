@@ -13,7 +13,7 @@ mnm5 = menuMinuman('Doger Ice Cilacap', 'Doger Ice Cilacap Vibes', 17500)
 mnm6 = menuMinuman('Tea Ice Angkringan', 'Tea Ice Cool And Taste', 17500)
 
 
-pilihanMenu = [mnm1, mnm2, mnm3, mnm4]
+pilihanMenu = [mnm1, mnm2, mnm3, mnm4, mnm5, mnm6]
 print('Daftar Menu Healthy Fruits')
 
 for i in pilihanMenu:
