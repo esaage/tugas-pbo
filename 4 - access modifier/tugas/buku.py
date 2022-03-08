@@ -15,5 +15,4 @@ data_buku = [buku1, buku2, buku3]
 
 print('Daftar Buku')
 for i in data_buku:
-    print(
-        f'Buku {i.judul} karangan {i.pengarang} pertama kali diterbitkan tahun {i.tahun_terbit} dengan harga Rp. {i._Buku__harga}')
+    print(f'Buku {i.judul} karangan {i.pengarang} pertama kali diterbitkan tahun {i.tahun_terbit} dengan harga Rp. {i._Buku__harga}')
