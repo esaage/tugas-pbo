@@ -1,5 +1,5 @@
-from concurrent.futures import process
-
+# 5210411159
+# Esa Age
 
 class ComputerPart:
     def __init__(self, pabrikan, nama, jenis, harga):
