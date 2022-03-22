@@ -11,7 +11,7 @@ class bentuk(ABC):
 
 class Persegi(bentuk):
     def __init__(self, sisi):
-        self.sisi = sisi
+        self.__sisi = sisi
 
     def luas(self):
         return self.__sisi * self.__sisi
